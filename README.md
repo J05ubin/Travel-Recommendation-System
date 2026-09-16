@@ -1,2 +1,21 @@
-# Travel-Recommendation-System
-Developed a personalized travel recommendation engine using Python and Pandas. Implemented destination ranking based on user preferences such as budget, travel interests, trip duration, and travel type. Processed a dataset of 200+ travel destinations and generated tailored recommendations using filtering and ranking techniques.
+Travel Recommendation System
+
+A Python-based travel recommendation system that suggests destinations based on user preferences.
+
+Features
+Budget-based recommendations
+Destination type filtering
+Trip duration filtering
+Travel type matching
+Ranking based on rating and popularity
+Technologies
+Python
+Pandas
+Dataset Features
+Destination Name
+Destination Type
+Budget
+Duration
+Rating
+Activities
+Popularity Score
