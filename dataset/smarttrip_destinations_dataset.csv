@@ -1,0 +1,208 @@
+destination_name,country,state_or_region,destination_type,budget_level,avg_trip_cost_inr,recommended_duration_days,rating,best_season,suitable_for,activities,popularity_score
+Goa (North Goa),India,Goa,Beach,Medium,42000,6,4.8,Oct-Mar,"Honeymoon, Couple, Friends","Seafood tasting, Water sports, Jet skiing, Sunset cruise, Beach parties",86
+Goa (South Goa),India,Goa,Beach,Medium,20500,3,4.8,Oct-Mar,"Friends, Family, Honeymoon, Couple","Sunset cruise, Parasailing, Scuba diving, Snorkeling",89
+Gokarna,India,Karnataka,Beach,Medium,32000,6,4.5,Oct-Mar,"Couple, Friends, Honeymoon, Family","Beach parties, Jet skiing, Scuba diving, Seafood tasting",61
+Varkala,India,Kerala,Beach,Medium,32000,6,4.3,Oct-Mar,"Family, Friends","Jet skiing, Island hopping, Sunset cruise, Snorkeling, Sunbathing, Scuba diving",63
+Kovalam,India,Kerala,Beach,Medium,32000,6,4.0,Oct-Mar,"Couple, Friends, Family, Honeymoon","Sunset cruise, Island hopping, Snorkeling, Parasailing, Water sports, Scuba diving",78
+Alibaug,India,Maharashtra,Beach,Medium,32000,6,4.5,Oct-Mar,"Couple, Friends, Honeymoon","Parasailing, Beach parties, Seafood tasting, Sunset cruise, Jet skiing, Water sports",69
+Tarkarli,India,Maharashtra,Beach,Low,21000,5,3.5,Oct-Mar,"Friends, Family","Snorkeling, Seafood tasting, Sunbathing, Parasailing",51
+Diu,India,Daman and Diu,Beach,Medium,18000,3,4.1,Oct-Mar,"Couple, Honeymoon, Friends, Family","Scuba diving, Snorkeling, Sunbathing, Seafood tasting, Water sports",36
+Digha,India,West Bengal,Beach,Medium,31500,6,3.7,Oct-Mar,"Friends, Honeymoon","Scuba diving, Water sports, Seafood tasting, Jet skiing",30
+Marari Beach,India,Kerala,Beach,Medium,17500,4,3.5,Oct-Mar,"Couple, Family, Friends","Sunset cruise, Jet skiing, Scuba diving, Beach parties, Water sports, Seafood tasting",27
+Havelock Island,India,Andaman and Nicobar Islands,Beach,Medium,30000,4,4.3,Oct-Mar,"Couple, Friends","Parasailing, Scuba diving, Sunset cruise, Snorkeling, Seafood tasting",69
+Neil Island,India,Andaman and Nicobar Islands,Beach,Low,21000,5,3.7,Oct-Mar,"Honeymoon, Couple, Family","Jet skiing, Parasailing, Island hopping, Beach parties",50
+Port Blair,India,Andaman and Nicobar Islands,Beach,Low,22500,5,4.0,Oct-Mar,"Family, Friends, Couple, Honeymoon","Island hopping, Sunbathing, Seafood tasting, Scuba diving",67
+Gopalpur-on-Sea,India,Odisha,Beach,Medium,31500,6,4.0,Oct-Mar,"Friends, Couple","Island hopping, Sunbathing, Parasailing, Jet skiing, Sunset cruise, Snorkeling",36
+Kanyakumari,India,Tamil Nadu,Beach,Low,15000,3,4.1,Oct-Mar,"Family, Friends, Honeymoon","Parasailing, Scuba diving, Jet skiing, Beach parties, Snorkeling",56
+Mandarmani,India,West Bengal,Beach,Medium,18000,3,4.0,Oct-Mar,"Couple, Friends, Family","Parasailing, Beach parties, Island hopping, Sunset cruise, Seafood tasting, Scuba diving",56
+Bekal,India,Kerala,Beach,Low,21000,5,4.0,Oct-Mar,"Family, Friends, Honeymoon","Sunset cruise, Scuba diving, Water sports, Island hopping, Snorkeling, Sunbathing",47
+Manali,India,Himachal Pradesh,Mountain,Medium,34000,7,4.9,Mar-Jun & Sep-Nov,"Friends, Adventure, Solo","Camping, Photography, Nature walks, Trekking",97
+Shimla,India,Himachal Pradesh,Mountain,Medium,34000,7,4.7,Mar-Jun & Sep-Nov,"Family, Couple, Adventure, Solo","Camping, Cable car rides, Photography, Local sightseeing, Skiing, Bonfire nights",95
+Dalhousie,India,Himachal Pradesh,Mountain,Medium,19500,4,3.7,Mar-Jun & Sep-Nov,"Family, Solo, Couple","Skiing, Valley sightseeing, Cable car rides, Bonfire nights",30
+Dharamshala,India,Himachal Pradesh,Mountain,Medium,27000,4,3.9,Mar-Jun & Sep-Nov,"Friends, Solo, Couple, Family","Local sightseeing, Paragliding, Nature walks, Bonfire nights, Camping",79
+McLeod Ganj,India,Himachal Pradesh,Mountain,Low,15500,5,4.3,Mar-Jun & Sep-Nov,"Friends, Couple, Family","Bonfire nights, Local sightseeing, Valley sightseeing, Paragliding, Trekking, Photography",64
+Kasol,India,Himachal Pradesh,Mountain,Low,15500,5,4.2,Mar-Jun & Sep-Nov,"Family, Adventure","Camping, Bonfire nights, Local sightseeing, Photography, Paragliding",75
+Spiti Valley,India,Himachal Pradesh,Mountain,Medium,42000,7,4.4,Mar-Jun & Sep-Nov,"Friends, Solo, Couple","Bonfire nights, Nature walks, Trekking, Photography",72
+Kufri,India,Himachal Pradesh,Mountain,Medium,19500,4,3.8,Mar-Jun & Sep-Nov,"Friends, Family, Adventure, Solo","Valley sightseeing, Camping, Skiing, Nature walks, Paragliding",48
+Nainital,India,Uttarakhand,Mountain,Medium,28500,5,4.3,Mar-Jun & Sep-Nov,"Friends, Couple, Solo","Cable car rides, Local sightseeing, Bonfire nights, Photography, Paragliding",87
+Mussoorie,India,Uttarakhand,Mountain,Medium,30000,4,5.0,Mar-Jun & Sep-Nov,"Friends, Adventure, Family, Couple","Nature walks, Cable car rides, Bonfire nights, Valley sightseeing, Photography",93
+Auli,India,Uttarakhand,Mountain,Medium,27000,4,4.0,Mar-Jun & Sep-Nov,"Solo, Adventure, Friends, Family","Skiing, Cable car rides, Trekking, Nature walks, Photography, Valley sightseeing",57
+Kausani,India,Uttarakhand,Mountain,Low,17500,7,3.9,Mar-Jun & Sep-Nov,"Adventure, Solo","Skiing, Photography, Bonfire nights, Local sightseeing",41
+Almora,India,Uttarakhand,Mountain,Low,15000,6,4.0,Mar-Jun & Sep-Nov,"Friends, Adventure, Couple","Valley sightseeing, Local sightseeing, Bonfire nights, Paragliding",58
+Lansdowne,India,Uttarakhand,Mountain,Medium,19500,4,3.8,Mar-Jun & Sep-Nov,"Couple, Solo, Adventure, Friends","Cable car rides, Skiing, Bonfire nights, Valley sightseeing, Trekking, Local sightseeing",34
+Chopta,India,Uttarakhand,Mountain,Medium,19500,4,4.2,Mar-Jun & Sep-Nov,"Friends, Adventure, Couple","Trekking, Photography, Nature walks, Cable car rides, Bonfire nights",46
+Leh,India,Ladakh,Mountain,Medium,34000,7,4.8,Mar-Jun & Sep-Nov,"Couple, Adventure, Solo, Family","Photography, Cable car rides, Skiing, Paragliding",96
+Nubra Valley,India,Ladakh,Mountain,Low,15500,5,4.4,Mar-Jun & Sep-Nov,"Couple, Solo, Adventure","Camping, Cable car rides, Trekking, Valley sightseeing",71
+Pangong Lake,India,Ladakh,Mountain,Medium,27000,4,4.3,Mar-Jun & Sep-Nov,"Couple, Solo, Family","Bonfire nights, Camping, Cable car rides, Local sightseeing",58
+Darjeeling,India,West Bengal,Mountain,Medium,34000,7,4.4,Mar-Jun & Sep-Nov,"Couple, Friends, Adventure, Family","Trekking, Bonfire nights, Local sightseeing, Nature walks",87
+Gangtok,India,Sikkim,Mountain,Medium,42000,7,4.4,Mar-Jun & Sep-Nov,"Couple, Adventure, Solo","Camping, Trekking, Local sightseeing, Paragliding",78
+Pelling,India,Sikkim,Mountain,Medium,19500,4,3.8,Mar-Jun & Sep-Nov,"Couple, Solo, Friends, Adventure","Camping, Trekking, Valley sightseeing, Paragliding, Photography, Bonfire nights",55
+Yumthang Valley,India,Sikkim,Mountain,Medium,19500,4,3.5,Mar-Jun & Sep-Nov,"Family, Couple, Adventure, Friends","Photography, Skiing, Trekking, Cable car rides",32
+Tawang,India,Arunachal Pradesh,Mountain,Low,15500,5,4.0,Mar-Jun & Sep-Nov,"Adventure, Couple","Cable car rides, Bonfire nights, Camping, Skiing",58
+Munnar,India,Kerala,Mountain,High,59000,6,4.4,Oct-Mar,"Friends, Couple, Solo","Photography, Nature walks, Trekking, Bonfire nights, Paragliding, Valley sightseeing",89
+Ooty,India,Tamil Nadu,Mountain,Medium,34000,7,4.4,Oct-Mar,"Family, Couple","Cable car rides, Camping, Local sightseeing, Photography",94
+Kodaikanal,India,Tamil Nadu,Mountain,Low,15500,5,4.0,Oct-Mar,"Family, Couple, Solo","Nature walks, Skiing, Bonfire nights, Paragliding, Camping",56
+Coorg,India,Karnataka,Mountain,High,59000,6,4.5,Oct-Mar,"Couple, Family, Friends, Solo","Cable car rides, Trekking, Photography, Skiing, Paragliding, Camping",89
+Chikmagalur,India,Karnataka,Mountain,Low,15500,5,4.1,Oct-Mar,"Couple, Family, Friends, Adventure","Skiing, Trekking, Cable car rides, Photography, Camping, Bonfire nights",79
+Yercaud,India,Tamil Nadu,Mountain,Medium,19500,4,4.0,Oct-Mar,"Family, Solo, Friends, Adventure","Skiing, Camping, Local sightseeing, Valley sightseeing, Paragliding",52
+Valley of Flowers,India,Uttarakhand,Nature,Medium,26500,5,4.3,Mar-Jun & Sep-Nov,"Solo, Family","Boating, Picnicking, Camping, Bird watching",71
+Cherrapunji,India,Meghalaya,Nature,Medium,11500,2,4.1,Mar-Jun & Sep-Nov,"Solo, Family","Trekking, Eco-tourism, Photography, Sightseeing, Waterfall visits",63
+Shillong,India,Meghalaya,Nature,Medium,23000,4,4.1,Mar-Jun & Sep-Nov,"Friends, Solo","Bird watching, Waterfall visits, Camping, Eco-tourism",61
+Dawki,India,Meghalaya,Nature,Low,18000,5,4.1,Mar-Jun & Sep-Nov,"Family, Friends","Eco-tourism, Boating, Waterfall visits, Picnicking",28
+Majuli Island,India,Assam,Nature,Medium,16000,4,4.1,Mar-Jun & Sep-Nov,"Friends, Solo","Boating, Bird watching, Nature walks, Sightseeing, Camping",51
+Sundarbans National Park,India,West Bengal,Wildlife,Medium,13500,2,4.4,Nov-Apr,"Family, Adventure","Wildlife spotting, Camping, Bird watching, Nature photography, Guided nature trails",65
+Kaziranga National Park,India,Assam,Wildlife,Medium,13500,2,4.3,Nov-Apr,"Adventure, Family","Bird watching, Boat safari, Camping, Wildlife spotting, Guided nature trails",59
+Jim Corbett National Park,India,Uttarakhand,Wildlife,Medium,13500,3,4.5,Nov-Apr,"Friends, Family","Camping, Bird watching, Nature photography, Boat safari, Guided nature trails, Wildlife spotting",93
+Ranthambore National Park,India,Rajasthan,Wildlife,Medium,12000,2,4.7,Oct-Mar,"Friends, Family, Adventure","Guided nature trails, Camping, Bird watching, Wildlife spotting, Boat safari, Nature photography",83
+Bandhavgarh National Park,India,Madhya Pradesh,Wildlife,Medium,13500,2,4.0,Nov-Apr,"Friends, Adventure","Bird watching, Boat safari, Camping, Guided nature trails, Nature photography, Wildlife spotting",73
+Kanha National Park,India,Madhya Pradesh,Wildlife,Medium,13500,2,4.0,Nov-Apr,"Family, Adventure, Friends","Bird watching, Nature photography, Boat safari, Wildlife spotting, Camping",81
+Gir National Park,India,Gujarat,Wildlife,Low,14000,4,4.3,Oct-Mar,"Adventure, Friends","Wildlife spotting, Bird watching, Camping, Boat safari, Guided nature trails",69
+Periyar Wildlife Sanctuary,India,Kerala,Wildlife,Medium,17000,3,4.3,Nov-Apr,"Family, Friends","Guided nature trails, Camping, Boat safari, Bird watching",62
+Pench National Park,India,Madhya Pradesh,Wildlife,Low,7500,2,3.6,Nov-Apr,"Friends, Family","Guided nature trails, Jungle safari, Boat safari, Nature photography",30
+Wayanad,India,Kerala,Nature,Medium,24000,3,4.0,Oct-Mar,"Couple, Family, Solo, Friends","Photography, Picnicking, Bird watching, Trekking, Waterfall visits, Eco-tourism",56
+Kodagu Backwaters,India,Karnataka,Nature,Medium,16000,4,3.7,Oct-Mar,"Couple, Solo, Friends","Sightseeing, Bird watching, Nature walks, Camping, Picnicking",48
+Rann of Kutch,India,Gujarat,Nature,Medium,11500,2,4.1,Oct-Mar,"Family, Friends, Solo, Couple","Bird watching, Nature walks, Eco-tourism, Trekking, Sightseeing, Boating",71
+Khonoma Village,India,Nagaland,Nature,Low,11000,3,3.6,Mar-Jun & Sep-Nov,"Friends, Solo, Family, Couple","Picnicking, Camping, Boating, Sightseeing, Photography, Waterfall visits",49
+Rishikesh,India,Uttarakhand,Adventure,Medium,29000,4,4.7,Mar-Jun & Sep-Nov,"Friends, Solo, Adventure","Trekking, Zip-lining, Paragliding, Mountain biking, Off-roading, River rafting",94
+Bir Billing,India,Himachal Pradesh,Adventure,Medium,22000,3,4.5,Mar-Jun & Sep-Nov,"Friends, Adventure","Skydiving, Paragliding, Bungee jumping, Trekking",68
+Manali Solang Valley,India,Himachal Pradesh,Adventure,Medium,37000,6,4.3,Mar-Jun & Sep-Nov,"Adventure, Friends","Off-roading, Mountain biking, Rock climbing, Camping, Zip-lining, Skydiving",70
+Leh-Ladakh Biking Circuit,India,Ladakh,Adventure,Medium,22000,3,4.1,Mar-Jun & Sep-Nov,"Solo, Adventure, Friends","Rock climbing, Mountain biking, Camping, Trekking",67
+Zanskar Valley,India,Ladakh,Adventure,Low,23500,6,3.8,Mar-Jun & Sep-Nov,"Adventure, Friends, Solo","Camping, Zip-lining, River rafting, Paragliding, Bungee jumping, Trekking",51
+Andaman Scuba Diving (Havelock),India,Andaman and Nicobar Islands,Adventure,Medium,25000,5,4.4,Oct-Mar,"Adventure, Friends, Solo","Zip-lining, Paragliding, Mountain biking, Rock climbing, Skydiving, Trekking",75
+Goa Water Sports (Baga),India,Goa,Adventure,Medium,25000,5,4.4,Oct-Mar,"Adventure, Friends","Camping, Bungee jumping, Trekking, Zip-lining",72
+Auli Skiing Circuit,India,Uttarakhand,Adventure,Medium,17500,3,3.8,Mar-Jun & Sep-Nov,"Friends, Adventure, Solo","River rafting, Skydiving, Zip-lining, Mountain biking, Paragliding, Bungee jumping",52
+Coorg River Rafting (Barapole),India,Karnataka,Adventure,Low,23500,6,4.2,Oct-Mar,"Adventure, Friends","Off-roading, Rock climbing, Trekking, Skydiving, River rafting, Zip-lining",27
+Agra (Taj Mahal),India,Uttar Pradesh,Heritage,Medium,14000,3,4.8,Oct-Mar,"Family, Friends","Photography, Fort and palace visits, Shopping for handicrafts, Sightseeing, Guided heritage walks, Museum visits",94
+Fatehpur Sikri,India,Uttar Pradesh,Heritage,Medium,19500,4,4.2,Oct-Mar,"Friends, Family, Solo","Sightseeing, Photography, Guided heritage walks, Fort and palace visits",61
+Jaipur,India,Rajasthan,Heritage,Medium,14000,3,4.3,Oct-Mar,"Solo, Family, Friends","Sightseeing, Shopping for handicrafts, Museum visits, Guided heritage walks",87
+Udaipur,India,Rajasthan,Heritage,Medium,14000,3,4.4,Oct-Mar,"Friends, Family","Sightseeing, Shopping for handicrafts, Museum visits, Fort and palace visits, Photography, Guided heritage walks",97
+Jodhpur,India,Rajasthan,Heritage,High,38000,4,4.3,Oct-Mar,"Family, Solo, Friends","Sightseeing, Local cuisine tasting, Guided heritage walks, Museum visits, Shopping for handicrafts",91
+Jaisalmer,India,Rajasthan,Heritage,Medium,12500,2,4.0,Oct-Mar,"Friends, Solo, Family","Museum visits, Fort and palace visits, Sightseeing, Local cuisine tasting, Shopping for handicrafts, Photography",67
+Chittorgarh,India,Rajasthan,Heritage,Low,17000,4,4.0,Oct-Mar,"Friends, Solo, Family","Guided heritage walks, Shopping for handicrafts, Photography, Sightseeing, Local cuisine tasting, Museum visits",28
+Bikaner,India,Rajasthan,Heritage,Low,14000,3,4.1,Oct-Mar,"Solo, Friends, Family","Guided heritage walks, Local cuisine tasting, Sightseeing, Photography",42
+Hampi,India,Karnataka,Heritage,Low,10500,3,4.5,Oct-Mar,"Family, Friends, Solo","Fort and palace visits, Shopping for handicrafts, Guided heritage walks, Local cuisine tasting, Museum visits, Photography",73
+Mysore,India,Karnataka,Heritage,Medium,12500,2,4.5,Oct-Mar,"Family, Solo","Fort and palace visits, Photography, Local cuisine tasting, Museum visits, Shopping for handicrafts, Guided heritage walks",74
+Khajuraho,India,Madhya Pradesh,Heritage,Medium,12500,2,4.1,Oct-Mar,"Family, Solo, Friends","Guided heritage walks, Sightseeing, Photography, Local cuisine tasting, Museum visits",66
+Orchha,India,Madhya Pradesh,Heritage,Low,17000,4,3.5,Oct-Mar,"Solo, Friends, Family","Sightseeing, Local cuisine tasting, Guided heritage walks, Shopping for handicrafts, Fort and palace visits",49
+Gwalior,India,Madhya Pradesh,Heritage,Low,17000,4,4.0,Oct-Mar,"Family, Solo","Fort and palace visits, Sightseeing, Museum visits, Guided heritage walks, Photography, Shopping for handicrafts",44
+Mahabalipuram,India,Tamil Nadu,Heritage,Medium,19500,4,4.4,Oct-Mar,"Family, Solo, Friends","Local cuisine tasting, Guided heritage walks, Museum visits, Photography, Sightseeing, Shopping for handicrafts",67
+Konark,India,Odisha,Heritage,Medium,12500,2,4.4,Oct-Mar,"Family, Solo","Museum visits, Local cuisine tasting, Guided heritage walks, Sightseeing",82
+Ajanta and Ellora Caves,India,Maharashtra,Heritage,Medium,19500,4,4.4,Oct-Mar,"Solo, Friends, Family","Local cuisine tasting, Guided heritage walks, Museum visits, Shopping for handicrafts, Sightseeing",72
+Hyderabad (Golconda & Charminar),India,Telangana,Heritage,Medium,14000,3,5.0,Oct-Mar,"Friends, Family","Local cuisine tasting, Sightseeing, Museum visits, Guided heritage walks, Fort and palace visits, Shopping for handicrafts",100
+Champaner-Pavagadh,India,Gujarat,Heritage,Low,14000,3,3.6,Oct-Mar,"Solo, Friends, Family","Guided heritage walks, Fort and palace visits, Shopping for handicrafts, Photography, Sightseeing, Local cuisine tasting",47
+Varanasi,India,Uttar Pradesh,Religious,Medium,13000,2,4.9,Oct-Mar,"Family, Solo","Aarti ceremony, Sightseeing, Temple visits, Spiritual retreats, Meditation, Local prasad tasting",85
+Haridwar,India,Uttarakhand,Religious,Medium,25000,3,5.0,Oct-Mar,"Family, Religious","Pilgrimage rituals, Spiritual retreats, Aarti ceremony, Local prasad tasting, Meditation",100
+Rishikesh Ashrams Circuit,India,Uttarakhand,Religious,Medium,13500,2,4.4,Oct-Mar,"Solo, Religious","Aarti ceremony, Pilgrimage rituals, Meditation, Temple visits, Sightseeing, Local prasad tasting",69
+Vaishno Devi (Katra),India,Jammu and Kashmir,Religious,Medium,25000,3,4.9,Oct-Mar,"Religious, Family, Solo","Sightseeing, Meditation, Temple visits, Spiritual retreats, Pilgrimage rituals",100
+Amritsar (Golden Temple),India,Punjab,Religious,High,13500,1,5.0,Oct-Mar,"Solo, Family, Religious","Local prasad tasting, Meditation, Spiritual retreats, Pilgrimage rituals",88
+Tirupati,India,Andhra Pradesh,Religious,Medium,25000,3,4.6,Oct-Mar,"Family, Religious","Meditation, Local prasad tasting, Temple visits, Aarti ceremony, Pilgrimage rituals",85
+Shirdi,India,Maharashtra,Religious,Medium,25000,3,4.4,Oct-Mar,"Solo, Family, Religious","Meditation, Local prasad tasting, Sightseeing, Aarti ceremony, Spiritual retreats, Temple visits",95
+Puri (Jagannath Temple),India,Odisha,Religious,Medium,9000,1,4.1,Oct-Mar,"Solo, Family","Local prasad tasting, Spiritual retreats, Sightseeing, Meditation, Temple visits",79
+Bodh Gaya,India,Bihar,Religious,Medium,13500,2,4.1,Oct-Mar,"Family, Solo","Sightseeing, Pilgrimage rituals, Meditation, Local prasad tasting, Temple visits, Aarti ceremony",76
+Ajmer Sharif,India,Rajasthan,Religious,Medium,9000,1,4.4,Oct-Mar,"Solo, Religious","Spiritual retreats, Pilgrimage rituals, Temple visits, Meditation, Local prasad tasting, Aarti ceremony",64
+Rameswaram,India,Tamil Nadu,Religious,Medium,13500,2,4.5,Oct-Mar,"Solo, Family","Pilgrimage rituals, Spiritual retreats, Sightseeing, Local prasad tasting, Aarti ceremony",70
+Dwarka,India,Gujarat,Religious,Medium,20500,3,4.2,Oct-Mar,"Solo, Religious, Family","Local prasad tasting, Spiritual retreats, Meditation, Sightseeing, Temple visits, Aarti ceremony",76
+Madurai (Meenakshi Temple),India,Tamil Nadu,Religious,Medium,13500,2,4.4,Oct-Mar,"Family, Solo","Spiritual retreats, Pilgrimage rituals, Sightseeing, Temple visits, Meditation",78
+Kedarnath,India,Uttarakhand,Religious,Medium,13500,2,4.1,Oct-Mar,"Solo, Family, Religious","Aarti ceremony, Spiritual retreats, Temple visits, Meditation",65
+Badrinath,India,Uttarakhand,Religious,Medium,9000,1,4.0,Oct-Mar,"Solo, Family, Religious","Temple visits, Pilgrimage rituals, Sightseeing, Meditation",71
+Somnath,India,Gujarat,Religious,Medium,13500,2,4.2,Oct-Mar,"Religious, Family","Pilgrimage rituals, Local prasad tasting, Temple visits, Spiritual retreats, Sightseeing",57
+Guruvayur,India,Kerala,Religious,Low,14500,3,4.0,Oct-Mar,"Religious, Family","Aarti ceremony, Sightseeing, Local prasad tasting, Pilgrimage rituals, Meditation",33
+Pushkar,India,Rajasthan,Religious,Medium,9000,1,4.4,Oct-Mar,"Solo, Religious, Family","Aarti ceremony, Meditation, Local prasad tasting, Pilgrimage rituals, Sightseeing, Temple visits",77
+Sabarimala,India,Kerala,Religious,Medium,12000,2,3.6,Oct-Mar,"Family, Religious","Temple visits, Local prasad tasting, Sightseeing, Spiritual retreats, Aarti ceremony, Meditation",54
+Udaipur Palace Retreats,India,Rajasthan,Luxury,High,45500,6,4.4,Oct-Mar,"Business, Honeymoon, Couple, Family","Spa and wellness, Shopping, Houseboat stay, Private tours",100
+Alleppey Backwaters Houseboat,India,Kerala,Luxury,High,30000,4,4.4,Oct-Mar,"Family, Business","Wine tasting, Spa and wellness, Shopping, Yacht cruise, Fine dining",86
+Jaipur Heritage Hotels,India,Rajasthan,Luxury,High,53500,5,4.0,Oct-Mar,"Honeymoon, Family, Business","Spa and wellness, Houseboat stay, Wine tasting, Yacht cruise, Private tours, Shopping",81
+Goa Luxury Resorts (Candolim),India,Goa,Luxury,High,35500,3,3.9,Oct-Mar,"Honeymoon, Family, Business, Couple","Fine dining, Heritage stay, Spa and wellness, Wine tasting, Shopping, Private tours",57
+Coorg Luxury Plantation Stays,India,Karnataka,Luxury,High,34000,5,3.8,Oct-Mar,"Family, Couple, Honeymoon","Heritage stay, Spa and wellness, Fine dining, Houseboat stay, Yacht cruise, Shopping",52
+Ranthambore Luxury Safari Lodges,India,Rajasthan,Luxury,High,34000,5,3.7,Oct-Mar,"Honeymoon, Family, Business, Couple","Heritage stay, Shopping, Wine tasting, Private tours",26
+Mumbai,India,Maharashtra,City,High,45000,4,4.6,Oct-Mar,"Family, Business","Shopping, Local markets exploration, Museum visits, Theme parks",98
+Delhi,India,Delhi,City,Medium,13500,3,4.7,Oct-Mar,"Couple, Family, Solo","City tours, Local markets exploration, Nightlife, Local cuisine tasting, Theme parks, Shopping",92
+Bangalore,India,Karnataka,City,High,25500,2,4.9,Oct-Mar,"Couple, Family, Business, Friends","Sightseeing, Theme parks, Shopping, Museum visits, Local markets exploration, Local cuisine tasting",100
+Kolkata,India,West Bengal,City,High,25500,2,4.7,Oct-Mar,"Family, Business, Couple, Solo","Sightseeing, Local markets exploration, Nightlife, Local cuisine tasting, Theme parks",83
+Chennai,India,Tamil Nadu,City,High,45000,4,4.8,Oct-Mar,"Family, Solo, Business, Couple","Sightseeing, Shopping, Museum visits, Local cuisine tasting",97
+Pune,India,Maharashtra,City,Medium,22000,4,4.3,Oct-Mar,"Business, Solo","Sightseeing, Local cuisine tasting, City tours, Museum visits, Local markets exploration, Shopping",80
+Ahmedabad,India,Gujarat,City,Medium,18000,3,4.5,Oct-Mar,"Family, Business, Solo","Museum visits, Local cuisine tasting, Local markets exploration, City tours, Shopping, Sightseeing",58
+Chandigarh,India,Punjab,City,Medium,18000,3,4.1,Oct-Mar,"Family, Solo","Sightseeing, Nightlife, Local cuisine tasting, Local markets exploration",71
+Lucknow,India,Uttar Pradesh,City,Medium,14500,2,4.1,Oct-Mar,"Couple, Solo","Local cuisine tasting, City tours, Sightseeing, Theme parks, Shopping",81
+Surat,India,Gujarat,City,Low,8500,2,4.0,Oct-Mar,"Couple, Solo","Shopping, City tours, Nightlife, Museum visits, Local markets exploration, Local cuisine tasting",55
+Indore,India,Madhya Pradesh,City,Medium,13000,3,3.5,Oct-Mar,"Solo, Family","Museum visits, Local markets exploration, Nightlife, Sightseeing, Local cuisine tasting",24
+Pondicherry,India,Puducherry,Cultural,Low,16000,3,4.0,Oct-Mar,"Solo, Family, Couple, Friends","Art and craft workshops, Museum visits, Cultural performances, Heritage walks",58
+Kutch Rann Utsav,India,Gujarat,Cultural,Low,12000,2,4.3,Oct-Mar,"Couple, Solo, Friends","Sightseeing, Museum visits, Art and craft workshops, Local festivals",69
+Kochi (Fort Kochi),India,Kerala,Cultural,Low,18000,4,4.2,Oct-Mar,"Solo, Friends, Family","Museum visits, Cultural performances, Local festivals, Heritage walks",83
+Thanjavur,India,Tamil Nadu,Cultural,Medium,18500,4,3.8,Oct-Mar,"Couple, Family, Friends","Cuisine tasting, Art and craft workshops, Cultural performances, Sightseeing, Local festivals",54
+Bishnupur,India,West Bengal,Cultural,Low,10500,2,4.1,Oct-Mar,"Solo, Couple, Family, Friends","Museum visits, Art and craft workshops, Local festivals, Sightseeing, Cultural performances",27
+Kumbhalgarh,India,Rajasthan,Cultural,Medium,18500,4,4.0,Oct-Mar,"Couple, Family, Friends","Cuisine tasting, Museum visits, Cultural performances, Sightseeing",36
+Mahabaleshwar,India,Maharashtra,Nature,Medium,26500,5,4.2,Oct-Mar,"Friends, Family","Photography, Eco-tourism, Sightseeing, Bird watching, Boating, Waterfall visits",62
+Lonavala,India,Maharashtra,Nature,Medium,11500,2,4.3,Oct-Mar,"Couple, Family, Friends, Solo","Picnicking, Photography, Sightseeing, Trekking, Waterfall visits",63
+Matheran,India,Maharashtra,Nature,Low,18000,5,3.6,Oct-Mar,"Friends, Couple, Family","Eco-tourism, Boating, Nature walks, Camping, Bird watching",36
+Panchgani,India,Maharashtra,Nature,Medium,13000,2,3.5,Oct-Mar,"Solo, Friends, Family, Couple","Boating, Picnicking, Bird watching, Waterfall visits, Nature walks",45
+Srinagar (Dal Lake),India,Jammu and Kashmir,Luxury,High,45500,6,4.7,Oct-Mar,"Honeymoon, Business, Family, Couple","Wine tasting, Fine dining, Shopping, Houseboat stay, Spa and wellness, Private tours",91
+Gulmarg,India,Jammu and Kashmir,Mountain,Medium,38000,6,4.4,Mar-Jun & Sep-Nov,"Couple, Friends, Solo","Bonfire nights, Paragliding, Skiing, Photography, Cable car rides",74
+Pahalgam,India,Jammu and Kashmir,Mountain,Medium,27000,4,4.2,Mar-Jun & Sep-Nov,"Couple, Family, Solo, Adventure","Camping, Cable car rides, Skiing, Trekking, Local sightseeing, Nature walks",63
+Sonmarg,India,Jammu and Kashmir,Mountain,Low,15000,6,4.0,Mar-Jun & Sep-Nov,"Couple, Solo, Friends, Family","Nature walks, Local sightseeing, Bonfire nights, Trekking, Valley sightseeing, Paragliding",58
+Dubai,UAE,Dubai,City,High,99000,3,4.4,Nov-Mar,"Couple, Business, Friends","Local markets exploration, Sightseeing, City tours, Museum visits",96
+Abu Dhabi,UAE,Abu Dhabi,City,High,55000,2,4.9,Nov-Mar,"Couple, Family, Business, Friends","Theme parks, Shopping, City tours, Museum visits, Local markets exploration",93
+Sharjah,UAE,Sharjah,Cultural,Medium,60000,4,4.0,Nov-Mar,"Solo, Friends","Cultural performances, Sightseeing, Art and craft workshops, Cuisine tasting, Local festivals",37
+Ras Al Khaimah,UAE,Ras Al Khaimah,Adventure,Medium,78500,6,4.2,Nov-Mar,"Adventure, Friends, Solo","Mountain biking, Bungee jumping, River rafting, Zip-lining",71
+Fujairah,UAE,Fujairah,Beach,Low,51000,4,3.9,Nov-Mar,"Couple, Honeymoon","Seafood tasting, Beach parties, Scuba diving, Sunset cruise",46
+Al Ain,UAE,Abu Dhabi Emirate,Heritage,Medium,56000,4,3.8,Nov-Mar,"Solo, Friends, Family","Fort and palace visits, Museum visits, Local cuisine tasting, Shopping for handicrafts, Photography, Sightseeing",55
+Bangkok,Thailand,Bangkok,City,High,68000,2,4.6,Nov-Feb,"Solo, Friends, Couple","City tours, Sightseeing, Museum visits, Local markets exploration, Theme parks, Nightlife",90
+Phuket,Thailand,Phuket Province,Beach,Medium,99000,6,4.5,Nov-Feb,"Friends, Family, Couple","Parasailing, Sunset cruise, Scuba diving, Jet skiing",99
+Pattaya,Thailand,Chonburi Province,Beach,High,111500,4,4.8,Nov-Feb,"Honeymoon, Couple, Family, Friends","Seafood tasting, Beach parties, Jet skiing, Sunbathing, Parasailing",93
+Krabi,Thailand,Krabi Province,Beach,Medium,61500,4,4.2,Nov-Feb,"Family, Friends, Honeymoon","Sunbathing, Snorkeling, Island hopping, Jet skiing",59
+Chiang Mai,Thailand,Chiang Mai Province,Cultural,Medium,47500,2,4.3,Nov-Feb,"Couple, Friends, Solo","Art and craft workshops, Museum visits, Heritage walks, Local festivals, Cultural performances",62
+Koh Samui,Thailand,Surat Thani Province,Beach,Medium,46500,3,4.6,Nov-Feb,"Family, Honeymoon, Friends","Island hopping, Jet skiing, Sunset cruise, Parasailing",72
+Koh Phi Phi,Thailand,Krabi Province,Beach,Medium,46500,3,4.2,Nov-Feb,"Couple, Family, Honeymoon, Friends","Snorkeling, Jet skiing, Water sports, Parasailing, Beach parties",75
+Ayutthaya,Thailand,Ayutthaya Province,Heritage,Medium,72500,4,4.1,Nov-Feb,"Family, Friends, Solo","Local cuisine tasting, Shopping for handicrafts, Photography, Fort and palace visits, Museum visits, Guided heritage walks",31
+Chiang Rai,Thailand,Chiang Rai Province,Cultural,Low,38500,2,4.1,Nov-Feb,"Solo, Friends, Family, Couple","Heritage walks, Local festivals, Cultural performances, Museum visits",43
+Bali (Kuta),Indonesia,Bali,Beach,High,82500,3,4.6,May-Sep,"Honeymoon, Couple","Jet skiing, Parasailing, Water sports, Snorkeling, Beach parties",93
+Ubud,Indonesia,Bali,Cultural,High,99500,4,4.8,May-Sep,"Couple, Family","Sightseeing, Art and craft workshops, Museum visits, Local festivals",89
+Nusa Dua,Indonesia,Bali,Luxury,High,119000,5,4.0,May-Sep,"Honeymoon, Business, Couple","Shopping, Fine dining, Houseboat stay, Private tours, Yacht cruise",68
+Gili Islands,Indonesia,West Nusa Tenggara,Beach,Medium,67500,4,4.2,May-Sep,"Honeymoon, Couple","Seafood tasting, Sunbathing, Sunset cruise, Water sports",71
+Jakarta,Indonesia,Jakarta,City,Medium,60500,3,4.5,May-Sep,"Couple, Family","Local markets exploration, Museum visits, Local cuisine tasting, Sightseeing, Shopping",71
+Yogyakarta,Indonesia,Special Region of Yogyakarta,Heritage,High,100500,4,4.1,May-Sep,"Friends, Family","Local cuisine tasting, Guided heritage walks, Museum visits, Sightseeing",56
+Lombok,Indonesia,West Nusa Tenggara,Beach,Medium,106000,6,4.1,May-Sep,"Honeymoon, Couple","Water sports, Snorkeling, Parasailing, Scuba diving, Beach parties",26
+Komodo Island,Indonesia,East Nusa Tenggara,Wildlife,Low,42500,2,3.6,May-Sep,"Friends, Adventure, Family","Nature photography, Jungle safari, Camping, Bird watching",51
+Singapore City,Singapore,Singapore,City,Medium,53000,2,4.5,Feb-Apr,"Family, Friends","Museum visits, Sightseeing, Shopping, Nightlife",86
+Sentosa Island,Singapore,Singapore,Luxury,Medium,82000,4,4.7,Feb-Apr,"Family, Honeymoon, Business, Couple","Shopping, Fine dining, Spa and wellness, Heritage stay",91
+Kuala Lumpur,Malaysia,Federal Territory,City,High,110000,4,4.3,Dec-Feb,"Solo, Friends","Sightseeing, Nightlife, Local cuisine tasting, Shopping, City tours",98
+Langkawi,Malaysia,Kedah,Beach,Medium,64500,4,4.2,Dec-Feb,"Friends, Honeymoon, Family, Couple","Water sports, Island hopping, Beach parties, Sunbathing",58
+Penang,Malaysia,Penang,Cultural,Medium,62000,4,4.6,Dec-Feb,"Family, Solo, Friends, Couple","Museum visits, Cultural performances, Sightseeing, Heritage walks",84
+Malacca,Malaysia,Malacca,Heritage,Medium,40000,2,3.9,Dec-Feb,"Friends, Family, Solo","Sightseeing, Photography, Guided heritage walks, Museum visits, Local cuisine tasting",31
+Genting Highlands,Malaysia,Pahang,Adventure,Medium,54000,3,4.0,Dec-Feb,"Friends, Solo, Adventure","Paragliding, Off-roading, Zip-lining, Trekking, Skydiving",62
+Kota Kinabalu,Malaysia,Sabah,Nature,Medium,77500,5,3.8,Dec-Feb,"Friends, Solo, Couple","Trekking, Nature walks, Boating, Waterfall visits",25
+Paris,France,Ile-de-France,City,Medium,100500,4,4.8,Apr-Jun & Sep-Oct,"Business, Family, Couple, Friends","Museum visits, Shopping, Sightseeing, Theme parks, City tours, Nightlife",98
+Nice,France,Provence-Alpes-Cote d'Azur,Beach,High,152500,6,4.5,Apr-Jun & Sep-Oct,"Friends, Couple","Snorkeling, Seafood tasting, Sunbathing, Sunset cruise, Scuba diving",80
+French Riviera (Cannes),France,Provence-Alpes-Cote d'Azur,Luxury,High,163000,4,4.2,Apr-Jun & Sep-Oct,"Family, Business","Yacht cruise, Private tours, Spa and wellness, Fine dining, Houseboat stay, Wine tasting",79
+Lyon,France,Auvergne-Rhone-Alpes,Cultural,Medium,93500,3,3.9,Apr-Jun & Sep-Oct,"Friends, Solo","Art and craft workshops, Local festivals, Heritage walks, Cuisine tasting, Cultural performances",47
+Bordeaux,France,Nouvelle-Aquitaine,Cultural,Low,90500,4,3.7,Apr-Jun & Sep-Oct,"Couple, Solo, Friends","Sightseeing, Heritage walks, Cuisine tasting, Cultural performances",29
+Chamonix,France,Auvergne-Rhone-Alpes,Mountain,High,176000,7,4.1,Apr-Jun & Sep-Oct,"Couple, Adventure","Trekking, Cable car rides, Bonfire nights, Skiing, Valley sightseeing",77
+Rome,Italy,Lazio,Heritage,Medium,106000,4,4.6,Apr-Jun & Sep-Oct,"Family, Friends, Solo","Local cuisine tasting, Photography, Guided heritage walks, Shopping for handicrafts, Sightseeing",90
+Venice,Italy,Veneto,Cultural,High,147000,4,4.3,Apr-Jun & Sep-Oct,"Friends, Family, Solo","Heritage walks, Museum visits, Art and craft workshops, Sightseeing, Cultural performances, Local festivals",99
+Florence,Italy,Tuscany,Heritage,High,111000,3,4.8,Apr-Jun & Sep-Oct,"Friends, Solo","Museum visits, Local cuisine tasting, Shopping for handicrafts, Fort and palace visits, Sightseeing",95
+Milan,Italy,Lombardy,City,Medium,91500,3,4.0,Apr-Jun & Sep-Oct,"Business, Couple, Family, Friends","City tours, Museum visits, Sightseeing, Theme parks",80
+Amalfi Coast,Italy,Campania,Luxury,Medium,115500,4,4.4,Apr-Jun & Sep-Oct,"Business, Couple, Family, Honeymoon","Yacht cruise, Heritage stay, Wine tasting, Shopping",81
+Tuscany Countryside,Italy,Tuscany,Nature,High,114000,4,4.4,Apr-Jun & Sep-Oct,"Couple, Friends","Boating, Bird watching, Camping, Nature walks, Trekking",80
+Naples,Italy,Campania,Cultural,Medium,99500,4,3.6,Apr-Jun & Sep-Oct,"Couple, Family, Solo","Cuisine tasting, Art and craft workshops, Museum visits, Local festivals",26
+Cinque Terre,Italy,Liguria,Nature,High,114000,4,3.9,Apr-Jun & Sep-Oct,"Solo, Couple","Picnicking, Waterfall visits, Photography, Bird watching, Nature walks",79
+Zurich,Switzerland,Zurich,City,High,116000,3,4.5,Jun-Sep,"Business, Solo, Family, Couple","Shopping, Museum visits, Nightlife, Local markets exploration, Theme parks, Local cuisine tasting",84
+Interlaken,Switzerland,Bern,Adventure,Medium,117500,5,4.8,Jun-Sep,"Friends, Adventure, Solo","Skydiving, Rock climbing, Mountain biking, River rafting, Zip-lining, Bungee jumping",89
+Zermatt,Switzerland,Valais,Mountain,Medium,94500,4,4.2,Jun-Sep,"Family, Couple, Adventure, Friends","Camping, Valley sightseeing, Bonfire nights, Trekking",70
+Lucerne,Switzerland,Lucerne,Nature,Medium,103000,4,4.2,Jun-Sep,"Couple, Solo","Sightseeing, Boating, Trekking, Bird watching, Camping, Eco-tourism",77
+Geneva,Switzerland,Geneva,City,Medium,85500,3,4.3,Jun-Sep,"Solo, Family, Business","Sightseeing, Local cuisine tasting, Museum visits, City tours",73
+Jungfrau Region,Switzerland,Bern,Mountain,Medium,126500,7,4.5,Jun-Sep,"Family, Solo, Friends","Local sightseeing, Camping, Valley sightseeing, Trekking, Photography, Skiing",67
+Grindelwald,Switzerland,Bern,Mountain,Medium,127000,6,3.7,Jun-Sep,"Solo, Couple, Family, Adventure","Skiing, Photography, Nature walks, Local sightseeing",38
+Tokyo,Japan,Kanto,City,High,118000,3,4.7,Mar-May & Oct-Nov,"Solo, Friends","City tours, Shopping, Nightlife, Local markets exploration, Theme parks",95
+Kyoto,Japan,Kansai,Heritage,High,125500,4,4.5,Mar-May & Oct-Nov,"Family, Friends, Solo","Guided heritage walks, Fort and palace visits, Sightseeing, Shopping for handicrafts",85
+Osaka,Japan,Kansai,City,High,118000,3,4.6,Mar-May & Oct-Nov,"Family, Couple","Shopping, Local markets exploration, Nightlife, Museum visits, City tours, Local cuisine tasting",86
+Hokkaido,Japan,Hokkaido,Nature,Medium,81500,3,4.1,Mar-May & Oct-Nov,"Couple, Family, Friends, Solo","Boating, Camping, Nature walks, Sightseeing, Picnicking, Waterfall visits",74
+Mount Fuji Region,Japan,Chubu,Mountain,Medium,90500,5,4.3,Mar-May & Oct-Nov,"Family, Friends, Solo","Bonfire nights, Cable car rides, Valley sightseeing, Paragliding",58
+Nara,Japan,Kansai,Heritage,Medium,85000,3,4.3,Mar-May & Oct-Nov,"Solo, Friends, Family","Shopping for handicrafts, Sightseeing, Local cuisine tasting, Guided heritage walks",81
+Hiroshima,Japan,Chugoku,Cultural,Low,75500,4,3.6,Mar-May & Oct-Nov,"Family, Friends, Couple, Solo","Local festivals, Art and craft workshops, Cuisine tasting, Heritage walks, Sightseeing",38
+Sydney,Australia,New South Wales,City,High,132000,3,4.7,Sep-Nov & Mar-May,"Family, Couple, Friends","Shopping, Local markets exploration, City tours, Local cuisine tasting, Sightseeing, Theme parks",86
+Melbourne,Australia,Victoria,City,Medium,88000,2,4.4,Sep-Nov & Mar-May,"Solo, Family, Couple","Local markets exploration, Sightseeing, Nightlife, Theme parks, Museum visits",86
+Gold Coast,Australia,Queensland,Beach,Medium,107000,5,4.6,Sep-Nov & Mar-May,"Honeymoon, Family","Snorkeling, Sunbathing, Parasailing, Scuba diving, Jet skiing, Seafood tasting",70
+Great Barrier Reef (Cairns),Australia,Queensland,Adventure,Medium,109000,4,4.2,Sep-Nov & Mar-May,"Adventure, Friends, Solo","Camping, Zip-lining, Off-roading, Rock climbing, Skydiving",78
+Perth,Australia,Western Australia,City,Medium,100000,3,3.9,Sep-Nov & Mar-May,"Business, Solo, Family","Theme parks, Sightseeing, City tours, Nightlife",44
+Uluru,Australia,Northern Territory,Nature,Medium,119000,5,4.4,Sep-Nov & Mar-May,"Solo, Family, Couple","Trekking, Eco-tourism, Boating, Nature walks, Camping, Waterfall visits",84
+Tasmania,Australia,Tasmania,Nature,Medium,112000,4,4.0,Sep-Nov & Mar-May,"Family, Friends","Nature walks, Sightseeing, Picnicking, Bird watching, Photography",44
